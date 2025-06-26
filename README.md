@@ -1,4 +1,4 @@
-# 🩺 Doctor’s Dilemma: Predicting the Right Prescription
+# 🩺 Doctor’s Dilemma: Predicting the Right Prescription with a `Decision Tree`
 
 Welcome to **Doctor’s Dilemma**, a machine learning project where you take on the role of a data-driven doctor. Using patient data — including **Age**, **Sex**, **Blood Pressure**, and **Cholesterol** — this notebook trains a model to predict which of five drugs (**Drug A, B, C, X, or Y**) should be prescribed.
 
